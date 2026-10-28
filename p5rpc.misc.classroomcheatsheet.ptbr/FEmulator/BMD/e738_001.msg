@@ -1,0 +1,21 @@
+[sel SEL_011_0_0 top]
+[s]Dominância.[e]
+[s]Dreadnought.[bitflag 0 0 25 1][e]
+[s]Dreadlock.[e]
+
+[sel SEL_009_0_0 top]
+[s]Zero significa nada.[bitflag 0 0 25 1][e]
+[s]Rei se refere à neve.[e]
+[s]Zero e rei são a mesma coisa.[e]
+
+[sel SEL_006_0_0 top]
+[s]EUA.[e]
+[s]França.[e]
+[s]Grã-Bretanha.[e]
+[s]Japão.[bitflag 0 0 25 1][e]
+
+[sel SEL_004_0_0 top]
+[s]Trevo.[e]
+[s]Paus.[e]
+[s]Copas.[bitflag 0 0 25 1][e]
+[s]Ouros.[e]

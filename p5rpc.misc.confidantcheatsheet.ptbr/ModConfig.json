@@ -1,0 +1,40 @@
+﻿{
+    "ModId":  "p5rpc.misc.confidantcheatsheet.ptbr",
+    "ModName":  "Confidant Cheat Sheet — PT-BR",
+    "ModAuthor":  "Haalyle (mod original); adaptação PT-BR: T0ug",
+    "ModVersion":  "1.0.0",
+    "ModDescription":  "Versão compatível com a tradução PT-BR da PKG: mantém os textos em português e exibe as pontuações/respostas do Cheat Sheet.",
+    "ModDll":  "",
+    "ModIcon":  "Preview.jpg",
+    "ModR2RManagedDll32":  "",
+    "ModR2RManagedDll64":  "",
+    "ModNativeDll32":  "",
+    "ModNativeDll64":  "",
+    "Tags":  [
+
+             ],
+    "CanUnload":  null,
+    "HasExports":  null,
+    "IsLibrary":  false,
+    "ReleaseMetadataFileName":  null,
+    "IgnoreRegexes":  [
+                          ".*\\.json"
+                      ],
+    "IncludeRegexes":  [
+                           "\\.deps\\.json",
+                           "\\.runtimeconfig\\.json",
+                           "ModConfig\\.json"
+                       ],
+    "PluginData":  null,
+    "IsUniversalMod":  false,
+    "ModDependencies":  [
+                            "p5rpc.modloader"
+                        ],
+    "OptionalDependencies":  [
+
+                             ],
+    "SupportedAppId":  [
+                           "p5r.exe"
+                       ],
+    "ProjectUrl":  "https://github.com/T0ug/sheet-cheat-PT-BR"
+}

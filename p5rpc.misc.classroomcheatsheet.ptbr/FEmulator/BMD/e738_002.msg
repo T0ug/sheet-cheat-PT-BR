@@ -1,0 +1,5 @@
+[sel SEL_007_0_0 top]
+[s]A.[e]
+[s]B.[e]
+[s]C.[e]
+[s]D.[bitflag 0 0 25 1][e]

@@ -1,0 +1,48 @@
+[sel SEL_023_0_0 top]
+[s]Minamoto no Yoritomo.[e]
+[s]Minamoto no Yoshitsune.[bitflag 0 0 25 1][e]
+[s]Minamoto no Yoshitomo.[e]
+
+[sel SEL_039_0_0 top]
+[s]Razão de Ouro.[e]
+[s]Razão de Prata.[bitflag 0 0 25 1][e]
+[s]Nenhuma.[e]
+
+[sel SEL_015_0_0 top]
+[s]De famosos campos de execução.[e]
+[s]Do som que faz.[e]
+[s]Do nome do seu criador.[bitflag 0 0 25 1][e]
+
+[sel SEL_007_0_0 top]
+[s]Astigmatismo.[e]
+[s]Uma ilusão óptica.[bitflag 0 0 25 1][e]
+[s]Miragem.[e]
+
+[sel SEL_011_0_0 top]
+[s]De qualquer forma.[e]
+[s]Xeque-mate.[e]
+[s]Novo rico.[bitflag 0 0 25 1][e]
+[s]Clave de sol.[e]
+
+[sel SEL_027_0_0 top]
+[s]74 graus.[e]
+[s]62 graus.[e]
+[s]64 graus.[bitflag 0 0 25 1][e]
+[s]40 graus.[e]
+
+[sel SEL_035_0_0 top]
+[s]A.[e]
+[s]B.[e]
+[s]C.[e]
+[s]D.[bitflag 0 0 25 1][e]
+
+[sel SEL_019_0_0 top]
+[s]A.[e]
+[s]B.[e]
+[s]C.[e]
+[s]D.[bitflag 0 0 25 1][e]
+
+[sel SEL_031_0_0 top]
+[s]18 superfícies.[e]
+[s]24 superfícies.[e]
+[s]32 superfícies.[bitflag 0 0 25 1][e]

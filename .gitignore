@@ -1,0 +1,6 @@
+﻿# Arquivos locais do Reloaded-II
+User/
+Apps/
+
+# Artefatos de build
+*.zip
